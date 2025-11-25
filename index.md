@@ -10,8 +10,6 @@ Hi, I'm Ellie. I'm a postdoctoral researcher in Tim Behrens' lab at Oxford, work
 
 ## Projects
 
-(Under construction.)
-
 - **A generative model of memory construction and consolidation**  
   *Eleanor Spens and Neil Burgess, Nature Human Behaviour (2024)*  
   **Link:** [https://www.nature.com/articles/s41562-023-01799-z](https://www.nature.com/articles/s41562-023-01799-z)  
