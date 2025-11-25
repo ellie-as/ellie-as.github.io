@@ -3,7 +3,7 @@ layout: default
 title: "Home"
 ---
 
-# About
+## About
 
 Hi, I'm Ellie. I'm a postdoctoral researcher in Tim Behrens' lab at Oxford, working on how our brains learn predictive models of the world offline, how frontal cortex develops useful abstractions, and how this relates to recent advances in AI. Previously, I did my PhD with Neil Burgess at University College London, modelling systems consolidation as the training of generative models in cortex on replayed memories. Before that, I worked in machine learning in the UK Civil Service for a few years. 
 
